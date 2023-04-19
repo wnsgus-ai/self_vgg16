@@ -1,0 +1,15 @@
+data:
+  dataset: "cats_and_dogs_filtered"
+  root: "/media/cjh/hard_2tb/Data"
+  train: "train"
+  test: "validation"
+  type: "jpg"
+  size: "244x244"
+
+param:
+  batch_size: 32
+  learning_rate: 0.00001
+  epoch: 100
+
+save:
+  path: "./model"

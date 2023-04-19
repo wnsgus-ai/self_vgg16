@@ -1,0 +1,6 @@
+.env.sh
+__pycahe__
+vgg16/model/*
+vgg16/runs/*
+.vscode
+*.pyc
